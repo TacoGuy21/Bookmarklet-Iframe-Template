@@ -1,3 +1,4 @@
+This ultraviolet proxy does not show up in your history.
 # Cloaked-Undetectable-Ultraviolet
 Completely undetectable ultraviolet proxy using iframes, an old forum post, and my tiny brain.
 
