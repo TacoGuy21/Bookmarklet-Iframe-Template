@@ -1,6 +1,8 @@
 # Scripts are not mine, I just edited them.
-This ultraviolet proxy does not show up in your history.
+I found some broken Iframe bookmarklet code on a forum, and changed it.
 # Cloaked-Undetectable-Ultraviolet
+This ultraviolet proxy does not show up in your history.
+
 Completely undetectable ultraviolet proxy using iframes, an old forum post, and my tiny brain.
 
 Has nowgg.me support, meaning it has Call of duty, Roblox, and more.
