@@ -2,6 +2,8 @@
 
 Click the purple dot in the corner of the screen to close the iframe.
 
+Go to nowgg.me for games
+
 # How to execute
 
 Create a bookmark, right click it, click edit, click more, and paste the code into the url.
