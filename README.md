@@ -6,7 +6,7 @@ Go to nowgg.me for games
 
 # How to execute
 
-Create a bookmark, right click it, click edit, click more, and paste the code into the url.
+Create a bookmark, right click it, click edit, click more, and paste the code into the url. Open to execute.
 
 # Scripts are not mine, I just edited them.
 I found some broken Iframe bookmarklet code on a forum, and changed it.
