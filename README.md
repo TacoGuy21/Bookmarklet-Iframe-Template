@@ -10,10 +10,10 @@ Create a bookmark, right click it, click edit, click more, and paste the code in
 
 # Scripts are not mine, I just edited them.
 I found some broken Iframe bookmarklet code on a forum, and changed it.
-# Cloaked-Undetectable-Ultraviolet
+# Cloaked-Undetectable-Void
 This ultraviolet proxy does not show up in your history.
 
-Completely undetectable ultraviolet proxy using iframes, an old forum post, and my tiny brain.
+Completely undetectable Void proxy using iframes, an old forum post, and my tiny brain.
 
 Has nowgg.me support, meaning it has Call of duty, Roblox, and more.
 
