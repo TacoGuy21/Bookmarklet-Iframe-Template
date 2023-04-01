@@ -1,6 +1,6 @@
 javascript:(function() {
   var iframe = document.createElement('iframe');
-  iframe.setAttribute('src', 'https://net.cloudranger.net');
+  iframe.setAttribute('src', 'YOUR SITE HERE');
   iframe.style.position = 'fixed';
   iframe.style.top = '50%';
   iframe.style.left = '50%';
